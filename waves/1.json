@@ -1,0 +1,216 @@
+{
+  "id": "1",
+  "title": "Floranette Support",
+  "released": "2026-11-18",
+  "cards": [
+    {
+      "id": "silverheart-sparks-the-first-floranette-blue-flame",
+      "name": "Silverheart Sparks the First Floranette Blue Flame",
+      "category": "entity",
+      "kind": "normal",
+      "faction": "floranette",
+      "level": 2,
+      "atk": 1250,
+      "def": 1150,
+      "maxCircle": "BC",
+      "effect": "(Quick Effect): If you control no entities, or when a card is sent to your PAST: You can Special ARISE this card from your hand. If this card is Special ARISE: You can equip 1 Floranette ARMORY from your Deck or PAST to an entity you control. You can only use each effect of \"Silverheart Sparks the First Floranette Blue Flame\" once per turn.",
+      "profiles": {
+        "CC": "(Quick Effect): If you control no entities, or when a card is sent to your PAST: You can Special ARISE this card from your hand. You can only use each effect of \"Silverheart Sparks the First Floranette Blue Flame\" once per turn.",
+        "BC": "(Quick Effect): If you control no entities, or when a card is sent to your PAST: You can Special ARISE this card from your hand. If this card is Special ARISE: You can equip 1 Floranette ARMORY from your Deck or PAST to an entity you control. You can only use each effect of \"Silverheart Sparks the First Floranette Blue Flame\" once per turn.",
+        "CMC": "(Quick Effect): If you control no entities, or when a card is sent to your PAST: You can Special ARISE this card from your hand. If this card is Special ARISE: You can equip 1 Floranette ARMORY from your Deck or PAST to an entity you control. You can only use each effect of \"Silverheart Sparks the First Floranette Blue Flame\" once per turn."
+      },
+      "lore": "Chained in the dark beneath the palace, she found the first spark of a flame no tax could ever take.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/silverheart-sparks-the-first-floranette-blue-flame/"
+    },
+    {
+      "id": "silverheart-abused-in-royal-dungeon",
+      "name": "Silverheart Abused in Royal Dungeon",
+      "category": "entity",
+      "kind": "normal",
+      "faction": "floranette",
+      "level": 3,
+      "atk": 1000,
+      "def": 1600,
+      "maxCircle": "BC",
+      "effect": "If this card is sent to PAST by a card effect except by its own effect, Special ARISE it, equip 1 ARMORY from your PAST to it, and it gains 300 ATK until the end of the turn. Once per turn (Quick Effect): You can send 1 ARMORY you control to the PAST; send 1 Floranette entity from your Deck to the PAST.",
+      "profiles": {
+        "CC": "If this card is sent to PAST by a card effect except by its own effect, Special ARISE it, equip 1 ARMORY from your PAST to it, and it gains 300 ATK until the end of the turn.",
+        "BC": "If this card is sent to PAST by a card effect except by its own effect, Special ARISE it, equip 1 ARMORY from your PAST to it, and it gains 300 ATK until the end of the turn. Once per turn (Quick Effect): You can send 1 ARMORY you control to the PAST; send 1 Floranette entity from your Deck to the PAST.",
+        "CMC": "If this card is sent to PAST by a card effect except by its own effect, Special ARISE it, equip 1 ARMORY from your PAST to it, and it gains 300 ATK until the end of the turn. Once per turn (Quick Effect): You can send 1 ARMORY you control to the PAST; send 1 Floranette entity from your Deck to the PAST."
+      },
+      "lore": "The crown kept her in irons for a debt she never owed. Every blow only taught her how to rise again.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/silverheart-abused-in-royal-dungeon/"
+    },
+    {
+      "id": "floranette-failed-king-gulotone-woman-enslaver",
+      "name": "Floranette Failed King Gulotone, Woman Enslaver",
+      "category": "entity",
+      "kind": "normal",
+      "faction": "floranette",
+      "level": 4,
+      "atk": 1037,
+      "def": 806,
+      "maxCircle": "BC",
+      "effect": "If this card is Normal or Special ARISE: You can add 1 Floranette ARMORY from your Deck to your hand. Once per turn: You can send 1 card from your hand to the PAST; equip 1 ARMORY from your PAST to a Floranette entity you control. You can only use each effect of \"Floranette Failed King Gulotone, Woman Enslaver\" once per turn.",
+      "profiles": {
+        "CC": "If this card is Normal or Special ARISE: You can add 1 Floranette ARMORY from your Deck to your hand. You can only use each effect of \"Floranette Failed King Gulotone, Woman Enslaver\" once per turn.",
+        "BC": "If this card is Normal or Special ARISE: You can add 1 Floranette ARMORY from your Deck to your hand. Once per turn: You can send 1 card from your hand to the PAST; equip 1 ARMORY from your PAST to a Floranette entity you control. You can only use each effect of \"Floranette Failed King Gulotone, Woman Enslaver\" once per turn.",
+        "CMC": "If this card is Normal or Special ARISE: You can add 1 Floranette ARMORY from your Deck to your hand. Once per turn: You can send 1 card from your hand to the PAST; equip 1 ARMORY from your PAST to a Floranette entity you control. You can only use each effect of \"Floranette Failed King Gulotone, Woman Enslaver\" once per turn."
+      },
+      "lore": "He taxed the silver, the livestock and the roofs, then took the people themselves as payment.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/floranette-failed-king-gulotone-woman-enslaver/"
+    },
+    {
+      "id": "gulotone-floranette-blue-flame-is-mine",
+      "name": "Gulotone, Floranette Blue Flame Is Mine",
+      "category": "entity",
+      "kind": "arisaErosion",
+      "faction": "floranette",
+      "level": 7,
+      "atk": 1498,
+      "def": 1152,
+      "maxCircle": "CMC",
+      "effect": "Must first be Erosion ARISA from your Extra Entity Zone by removing 7 Corruption Counters from your field. When this card is ARISA: Attach 1 ARMORY card from the PAST to this card. Once per turn: You can equip 1 ARMORY from either player's PAST to this card. Once per turn, when an ARMORY is equipped to a Floranette entity you control: You can draw 1 card. When this card is ARISA: inflict 126 damage to your opponent.",
+      "profiles": {
+        "CC": "Must first be Erosion ARISA from your Extra Entity Zone by removing 7 Corruption Counters from your field. When this card is ARISA: Attach 1 ARMORY card from the PAST to this card.",
+        "BC": "Must first be Erosion ARISA from your Extra Entity Zone by removing 7 Corruption Counters from your field. When this card is ARISA: Attach 1 ARMORY card from the PAST to this card. Once per turn: You can equip 1 ARMORY from either player's PAST to this card.",
+        "CMC": "Must first be Erosion ARISA from your Extra Entity Zone by removing 7 Corruption Counters from your field. When this card is ARISA: Attach 1 ARMORY card from the PAST to this card. Once per turn: You can equip 1 ARMORY from either player's PAST to this card. Once per turn, when an ARMORY is equipped to a Floranette entity you control: You can draw 1 card. When this card is ARISA: inflict 126 damage to your opponent."
+      },
+      "lore": "The failed king seized the blue flame he had beaten out of her, and it ate him from the inside.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/gulotone-floranette-blue-flame-is-mine/"
+    },
+    {
+      "id": "silverheart-is-too-late",
+      "name": "Silverheart Is Too Late",
+      "category": "entity",
+      "kind": "sacrificial",
+      "faction": "floranette",
+      "level": 4,
+      "atk": 1250,
+      "def": 1200,
+      "maxCircle": "CMC",
+      "effect": "(Quick Effect): When your opponent ARISEs an entity or declares an attack: You can Special ARISE this card from your hand in Defense Position, then equip 1 ARMORY from your PAST to it. When this card or a \"Floranette\" entity you control is sent to the PAST (by battle, Sacrifice or a card effect): You can Erosion ARISA or Possessed ARISA 1 \"Floranette\" ARISA entity from your Extra Deck, ignoring its Corruption Counter or material requirement, by shuffling \"Floranette\" cards from your PAST into your Deck equal to its Level, then gain 100 Memories for each card shuffled. You can use this effect while this card is on the field or in your PAST. You can only use the first effect of \"Silverheart Is Too Late\" once per turn, and the second effect twice per turn. This card can make a second attack during each Battle Phase.",
+      "profiles": {
+        "CC": "(Quick Effect): When your opponent ARISEs an entity or declares an attack: You can Special ARISE this card from your hand in Defense Position, then equip 1 ARMORY from your PAST to it. You can only use the first effect of \"Silverheart Is Too Late\" once per turn, and the second effect twice per turn.",
+        "BC": "(Quick Effect): When your opponent ARISEs an entity or declares an attack: You can Special ARISE this card from your hand in Defense Position, then equip 1 ARMORY from your PAST to it. When this card or a \"Floranette\" entity you control is sent to the PAST (by battle, Sacrifice or a card effect): You can Erosion ARISA or Possessed ARISA 1 \"Floranette\" ARISA entity from your Extra Deck, ignoring its Corruption Counter or material requirement, by shuffling \"Floranette\" cards from your PAST into your Deck equal to its Level, then gain 100 Memories for each card shuffled. You can only use the first effect of \"Silverheart Is Too Late\" once per turn, and the second effect twice per turn. This card can make a second attack during each Battle Phase.",
+        "CMC": "(Quick Effect): When your opponent ARISEs an entity or declares an attack: You can Special ARISE this card from your hand in Defense Position, then equip 1 ARMORY from your PAST to it. When this card or a \"Floranette\" entity you control is sent to the PAST (by battle, Sacrifice or a card effect): You can Erosion ARISA or Possessed ARISA 1 \"Floranette\" ARISA entity from your Extra Deck, ignoring its Corruption Counter or material requirement, by shuffling \"Floranette\" cards from your PAST into your Deck equal to its Level, then gain 100 Memories for each card shuffled. You can use this effect while this card is on the field or in your PAST. You can only use the first effect of \"Silverheart Is Too Late\" once per turn, and the second effect twice per turn. This card can make a second attack during each Battle Phase."
+      },
+      "lore": "She ran through the burning streets with the flame in her hands, and still arrived too late.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/silverheart-is-too-late/"
+    },
+    {
+      "id": "silverheart-remanded-for-not-paying-tax",
+      "name": "Silverheart Remanded for Not Paying Tax",
+      "category": "entity",
+      "kind": "sacrificial",
+      "faction": "floranette",
+      "level": 6,
+      "atk": 132,
+      "def": 102,
+      "maxCircle": "CMC",
+      "effect": "You can Special ARISE this card (from your hand) by sending 1 \"Floranette\" entity you control to the PAST. If this card is Special ARISE: You can send 1 \"Floranette\" card from your hand to the PAST; equip 1 \"Floranette\" ARMORY from your Deck to a \"Floranette\" entity you control. When this card or a \"Floranette\" entity you control is sent to the PAST by your opponent (by battle, Sacrifice or a card effect): You can Erosion ARISA or Possessed ARISA 1 \"Floranette\" ARISA entity from your Extra Deck, ignoring its Corruption Counter or material requirement, by shuffling \"Floranette\" cards from your PAST into your Deck equal to its Level, then gain 100 Memories for each card shuffled. You can use this effect while this card is on the field or in your PAST. You can only use each of the first two effects of \"Silverheart Remanded for Not Paying Tax\" once per turn, and the last effect twice per turn. This card can make a second attack during each Battle Phase.",
+      "profiles": {
+        "CC": "You can Special ARISE this card (from your hand) by sending 1 \"Floranette\" entity you control to the PAST. You can only use each of the first two effects of \"Silverheart Remanded for Not Paying Tax\" once per turn, and the last effect twice per turn.",
+        "BC": "You can Special ARISE this card (from your hand) by sending 1 \"Floranette\" entity you control to the PAST. If this card is Special ARISE: You can send 1 \"Floranette\" card from your hand to the PAST; equip 1 \"Floranette\" ARMORY from your Deck to a \"Floranette\" entity you control. You can only use each of the first two effects of \"Silverheart Remanded for Not Paying Tax\" once per turn, and the last effect twice per turn.",
+        "CMC": "You can Special ARISE this card (from your hand) by sending 1 \"Floranette\" entity you control to the PAST. If this card is Special ARISE: You can send 1 \"Floranette\" card from your hand to the PAST; equip 1 \"Floranette\" ARMORY from your Deck to a \"Floranette\" entity you control. When this card or a \"Floranette\" entity you control is sent to the PAST by your opponent (by battle, Sacrifice or a card effect): You can Erosion ARISA or Possessed ARISA 1 \"Floranette\" ARISA entity from your Extra Deck, ignoring its Corruption Counter or material requirement, by shuffling \"Floranette\" cards from your PAST into your Deck equal to its Level, then gain 100 Memories for each card shuffled. You can use this effect while this card is on the field or in your PAST. You can only use each of the first two effects of \"Silverheart Remanded for Not Paying Tax\" once per turn, and the last effect twice per turn. This card can make a second attack during each Battle Phase."
+      },
+      "lore": "The apples spilled across the cobbles as the guards dragged her away. The coins were gone.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/silverheart-remanded-for-not-paying-tax/"
+    },
+    {
+      "id": "silverheart-escape-from-dungeon",
+      "name": "Silverheart Escape from Dungeon",
+      "category": "entity",
+      "kind": "arisaErosion",
+      "faction": "floranette",
+      "level": 5,
+      "atk": 2000,
+      "def": 1500,
+      "maxCircle": "CMC",
+      "effect": "Must first be Erosion ARISA from your Extra Entity Zone by removing 5 Corruption Counters from your field. When this card is ARISA: Attach 1 ARMORY card from the PAST to this card. Once per turn (Quick Effect): When your opponent activates an entity effect: You can shuffle 2 \"Floranette\" cards from your PAST into your Deck; negate the activation, and if you do, gain 200 Memories. When this card is ARISA: inflict 90 damage to your opponent.",
+      "profiles": {
+        "CC": "Must first be Erosion ARISA from your Extra Entity Zone by removing 5 Corruption Counters from your field. When this card is ARISA: Attach 1 ARMORY card from the PAST to this card.",
+        "BC": "Must first be Erosion ARISA from your Extra Entity Zone by removing 5 Corruption Counters from your field. When this card is ARISA: Attach 1 ARMORY card from the PAST to this card. Once per turn (Quick Effect): When your opponent activates an entity effect: You can shuffle 2 \"Floranette\" cards from your PAST into your Deck; negate the activation, and if you do, gain 200 Memories.",
+        "CMC": "Must first be Erosion ARISA from your Extra Entity Zone by removing 5 Corruption Counters from your field. When this card is ARISA: Attach 1 ARMORY card from the PAST to this card. Once per turn (Quick Effect): When your opponent activates an entity effect: You can shuffle 2 \"Floranette\" cards from your PAST into your Deck; negate the activation, and if you do, gain 200 Memories. When this card is ARISA: inflict 90 damage to your opponent."
+      },
+      "lore": "The chains melted in blue fire. What walked out of the dungeon was no longer a peasant girl.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/silverheart-escape-from-dungeon/"
+    },
+    {
+      "id": "silverheart-slum-burned-and-goes-insane",
+      "name": "Silverheart Slum Burned and Goes Insane",
+      "category": "entity",
+      "kind": "arisaPossessed",
+      "faction": "floranette",
+      "level": 6,
+      "atk": 180,
+      "def": 160,
+      "maxCircle": "CMC",
+      "effect": "Must first be Possessed ARISA from your Extra Entity Zone by using 1 Psychic entity and 1 or more non-Psychic entities whose total Levels equal 6. Each time an ARMORY is equipped to a \"Floranette\" entity you control: Place 1 Corruption Counter on that entity. Once per turn: You can send 1 \"Floranette\" card from your hand to the PAST; send the top 2 cards of your Deck to the PAST. When this card is ARISA: inflict 108 damage to your opponent.",
+      "profiles": {
+        "CC": "Must first be Possessed ARISA from your Extra Entity Zone by using 1 Psychic entity and 1 or more non-Psychic entities whose total Levels equal 6. Each time an ARMORY is equipped to a \"Floranette\" entity you control: Place 1 Corruption Counter on that entity.",
+        "BC": "Must first be Possessed ARISA from your Extra Entity Zone by using 1 Psychic entity and 1 or more non-Psychic entities whose total Levels equal 6. Each time an ARMORY is equipped to a \"Floranette\" entity you control: Place 1 Corruption Counter on that entity. Once per turn: You can send 1 \"Floranette\" card from your hand to the PAST; send the top 2 cards of your Deck to the PAST.",
+        "CMC": "Must first be Possessed ARISA from your Extra Entity Zone by using 1 Psychic entity and 1 or more non-Psychic entities whose total Levels equal 6. Each time an ARMORY is equipped to a \"Floranette\" entity you control: Place 1 Corruption Counter on that entity. Once per turn: You can send 1 \"Floranette\" card from your hand to the PAST; send the top 2 cards of your Deck to the PAST. When this card is ARISA: inflict 108 damage to your opponent."
+      },
+      "lore": "They burned the slum to clear the debtors out. She laughed until the flames turned blue.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/silverheart-slum-burned-and-goes-insane/"
+    },
+    {
+      "id": "floranette-failed-king-gulotone-and-innocent-queen-scheiren",
+      "name": "Floranette Failed King Gulotone and Innocent Queen Scheiren",
+      "category": "caster",
+      "kind": "armory",
+      "faction": "floranette",
+      "level": 0,
+      "atk": 0,
+      "def": 0,
+      "maxCircle": "CMC",
+      "effect": "Equip only to a Floranette entity. The equipped entity gains 300 ATK. When this card is equipped: You can send 1 Floranette entity from your Deck to the PAST. If this card is sent to the PAST: You can add 1 Floranette entity from your PAST to your hand. You can only use each effect of \"Floranette Failed King Gulotone and Innocent Queen Scheiren\" once per turn.",
+      "profiles": {
+        "CC": "Equip only to a Floranette entity. The equipped entity gains 300 ATK. You can only use each effect of \"Floranette Failed King Gulotone and Innocent Queen Scheiren\" once per turn.",
+        "BC": "Equip only to a Floranette entity. The equipped entity gains 300 ATK. When this card is equipped: You can send 1 Floranette entity from your Deck to the PAST. You can only use each effect of \"Floranette Failed King Gulotone and Innocent Queen Scheiren\" once per turn.",
+        "CMC": "Equip only to a Floranette entity. The equipped entity gains 300 ATK. When this card is equipped: You can send 1 Floranette entity from your Deck to the PAST. If this card is sent to the PAST: You can add 1 Floranette entity from your PAST to your hand. You can only use each effect of \"Floranette Failed King Gulotone and Innocent Queen Scheiren\" once per turn."
+      },
+      "lore": "A failed king on a stolen throne, and beside him the knight he would one day send to die.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/floranette-failed-king-gulotone-and-innocent-queen-scheiren/"
+    },
+    {
+      "id": "young-malphas-the-naive",
+      "name": "Young Malphas the Naive",
+      "category": "entity",
+      "kind": "normal",
+      "faction": "generic",
+      "level": 4,
+      "atk": 1500,
+      "def": 1200,
+      "maxCircle": "BC",
+      "effect": "When a card declares an attack, if you have 1 or more card on your field → Special ARISE this card in Defense Position\nIf this card is Special ARISEd by you: pay 300 Memories → this card gains 300 ATK and 300 DEF",
+      "profiles": {
+        "CC": "When a card declares an attack, if you have 1 or more card on your field → Special ARISE this card in Defense Position",
+        "BC": "When a card declares an attack, if you have 1 or more card on your field → Special ARISE this card in Defense Position\nIf this card is Special ARISEd by you: pay 300 Memories → this card gains 300 ATK and 300 DEF",
+        "CMC": "When a card declares an attack, if you have 1 or more card on your field → Special ARISE this card in Defense Position\nIf this card is Special ARISEd by you: pay 300 Memories → this card gains 300 ATK and 300 DEF"
+      },
+      "lore": "Before she carried a kingdom's downfall on her shoulders, she walked the cobblestone markets with a curious smile and an axe she could barely drag. Wondering why the monarch hoarded the royal flame for ornate swords while starving peasants begged in the gutters, she playfully sparked their woodsman tools with forbidden fire never realizing her reckless generosity had just planted the seeds of the Berserker Cult.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/young-malphas-the-naive/"
+    },
+    {
+      "id": "malphas-the-goofy-eyes-of-detective",
+      "name": "Malphas the Goofy Eyes of Detective",
+      "category": "entity",
+      "kind": "normal",
+      "faction": "generic",
+      "level": 4,
+      "atk": 1250,
+      "def": 1200,
+      "maxCircle": "BC",
+      "effect": "When a card declares an attack → Special ARISE this card in Defense Position\nIf this card is Special ARISEd: pay 500 Memories → shuffle 1 card from your opponent's entity zones into the Deck, then discard 1 card\nOn the field and in the PAST, this card is also treated as \"Doubtful Eyes of Detective\"",
+      "profiles": {
+        "CC": "When a card declares an attack → Special ARISE this card in Defense Position\nIf this card is Special ARISEd: pay 500 Memories → shuffle 1 card from your opponent's entity zones into the Deck, then discard 1 card",
+        "BC": "When a card declares an attack → Special ARISE this card in Defense Position\nIf this card is Special ARISEd: pay 500 Memories → shuffle 1 card from your opponent's entity zones into the Deck, then discard 1 card\nOn the field and in the PAST, this card is also treated as \"Doubtful Eyes of Detective\"",
+        "CMC": "When a card declares an attack → Special ARISE this card in Defense Position\nIf this card is Special ARISEd: pay 500 Memories → shuffle 1 card from your opponent's entity zones into the Deck, then discard 1 card\nOn the field and in the PAST, this card is also treated as \"Doubtful Eyes of Detective\""
+      },
+      "lore": "Raiding the Darkmagia archive's lost-and-found, the clone donned a tailored trench coat, punched horn holes into a fedora, and struck the calmest deadpan pose she could muster. She had no interest in solving financial conspiracies—she only wanted to see how red her immortal mother's face could turn before the cheek-pinching began.",
+      "wiki": "https://arise-a.akashahahamad.cc/cards/malphas-the-goofy-eyes-of-detective/"
+    }
+  ]
+}
